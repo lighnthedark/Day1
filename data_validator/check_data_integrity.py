@@ -4,3 +4,7 @@ git push
 python run_join_query.py
 
 git status
+cd git-practice
+code.
+touch hello.md
+git statu
